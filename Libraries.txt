@@ -1,0 +1,7 @@
+PyQT5
+matplotlib
+numpy
+cv2
+webbrowser
+arrayVis
+drawtree

@@ -1,0 +1,8 @@
+digraph "Graph" {
+	1 -> 2 [label=Right color=red]
+	2 -> 3 [label=Right color=red]
+	3 -> 5 [label=Right color=red]
+	5 -> 6 [label=Right color=red]
+	6 -> 9 [label=Right color=red]
+	9 -> 69 [label=Right color=red]
+}
